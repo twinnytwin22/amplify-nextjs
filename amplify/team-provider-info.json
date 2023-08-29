@@ -32,6 +32,18 @@
     "categories": {
       "auth": {
         "amplifynextjs4be0d114": {}
+      },
+      "function": {
+        "amplifynextjs1cc8049d": {
+          "deploymentBucketName": "amplify-amplifynextjs-crib-12100-deployment",
+          "s3Key": "amplify-builds/amplifynextjs1cc8049d-4a55396c72322b487870-build.zip"
+        }
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3qxq9noyimkez",
+          "type": "cicd"
+        }
       }
     }
   }

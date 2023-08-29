@@ -31,5 +31,46 @@
       "providerPlugin": "awscloudformation",
       "service": "Lambda"
     }
+  },
+  "hosting": {
+    "amplifyhosting": {
+      "lastPushTimeStamp": "2023-08-29T08:56:47.988Z",
+      "service": "amplifyhosting",
+      "type": "cicd"
+    }
+  },
+  "parameters": {
+    "AMPLIFY_function_amplifynextjs1cc8049d_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "amplifynextjs1cc8049d"
+        }
+      ]
+    },
+    "AMPLIFY_function_amplifynextjs1cc8049d_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "amplifynextjs1cc8049d"
+        }
+      ]
+    },
+    "AMPLIFY_hosting_amplifyhosting_appId": {
+      "usedBy": [
+        {
+          "category": "hosting",
+          "resourceName": "amplifyhosting"
+        }
+      ]
+    },
+    "AMPLIFY_hosting_amplifyhosting_type": {
+      "usedBy": [
+        {
+          "category": "hosting",
+          "resourceName": "amplifyhosting"
+        }
+      ]
+    }
   }
 }
