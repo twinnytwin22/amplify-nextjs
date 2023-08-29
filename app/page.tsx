@@ -1,7 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
 import { withAuthenticator } from "@aws-amplify/ui-react";
-import { GetServerSideProps } from 'next';
 
 
 export function awsAuth(){
