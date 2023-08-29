@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@aws-amplify/ui-react": "^5.2.0",
+    "@types/aws-lambda": "^8.10.119",
     "autoprefixer": "10.4.15",
     "aws-amplify": "^5.3.10",
     "next": "13.4.19",
@@ -21,6 +22,6 @@
   "devDependencies": {
     "@types/node": "20.5.7",
     "@types/react": "18.2.21",
-    "typescript": "5.2.2" 
+    "typescript": "5.2.2"
   }
 }
